@@ -31,3 +31,4 @@ const totalRevenue = function (drivers) {
     
   })
 }
+
